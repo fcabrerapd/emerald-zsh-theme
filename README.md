@@ -71,7 +71,7 @@ source ~/.zshrc
 
 ---
 
-##Créditos
+## Créditos
 
 - [**Oh My Zsh**](https://ohmyz.sh/) — Framework base para la gestión de temas y plugins
 
