@@ -1,4 +1,4 @@
-# Bearded Emerald — Zsh Theme
+# Emerald — Zsh Theme
 
 Un tema limpio, elegante y minimalista para Zsh con una paleta inspirada en **Bearded Theme** (Black & Emerald). Diseñado para mantener una excelente legibilidad y un flujo de trabajo ágil en la terminal sin saturar la pantalla.
 
